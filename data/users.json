@@ -36,6 +36,33 @@
       "salt": "a6fc53343361540dd76689a8d8ccb13d",
       "passwordHash": "a121e44856a333b0f64735e6f796f97b54fc30edc26686f8a5aab80acc2bdfb141e112c5a808e5eb1693eb42f53208464907e94d2ca81ea2bd3db43617a6b10a",
       "createdAt": "2026-09-29T07:10:39.137Z"
+    },
+    {
+      "id": "2764d648-132d-47c3-86c2-1c7e7f8f1493",
+      "fullName": "tes1",
+      "phone": "0888888888",
+      "role": "tenant",
+      "salt": "581edcac5ff12460e27aa347f7218525",
+      "passwordHash": "0b59ba6d0522d09d72163349763e6075739b3e2646c45e6e35a7821013513766a8500c6a35761bc0d0b591dc8b6b7c630a7546fedb312985bf3ed33857c048e4",
+      "createdAt": "2026-10-02T04:25:58.433Z"
+    },
+    {
+      "id": "17b6d43f-64eb-46d0-b883-791364a7221b",
+      "fullName": "นายทดสอบ ระบบ",
+      "phone": "0800000005",
+      "role": "tenant",
+      "salt": "e6d1a9d03bd5baefb9dd7180b76d6832",
+      "passwordHash": "4fed3c965e35a9d5936aa99993981a7a7604deeec32311dc01ffc06cc787fad91e71cff5eddb448ba99c46e98877cc500ef3fa33b96b416130e45b028738bf52",
+      "createdAt": "2026-10-02T04:43:40.775Z"
+    },
+    {
+      "id": "c14e1b68-c9ea-46eb-9a7f-05d3026552de",
+      "fullName": "tes1123",
+      "phone": "0888888882",
+      "role": "tenant",
+      "salt": "54eb0119c403cef74a97a1c69da369ee",
+      "passwordHash": "502f538b11044e4dcc3f766f6a970948ba15f1c1cbe1a4eac6fbc33ab13cda08d3f8267c8e39c35d8176e027ea50be285d6d0861361b42e386bea127647dcdb5",
+      "createdAt": "2026-10-02T04:44:20.420Z"
     }
   ]
 }
